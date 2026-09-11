@@ -1,2 +1,2 @@
--- print tabele from the database
-show table first_table;
+-- Prints the full description of the table first_table from database hbtn_0c_0
+SHOW CREATE TABLE first_table;
